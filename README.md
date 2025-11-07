@@ -37,8 +37,8 @@ These pieces are not standalone. They form a *self-illuminating circuit*:
 | Node | Role | Link |
 |------|------|------|
 | **[RRS](https://github.com/SergeakaAimate/Ready-Ready-Show/commit/65b939cf03de65627d7d270d77ba0a1bccbc6422)** | *The Simulator* — minimal arena for Γ-actualization in action | ➜ tests Property 34 (Bindability), 37 (Significance) |
-| **[MPO-S](https://github.com/serge-ontolab/mpo-s)** | *The OS* — operational grammar for cross-world navigation | ➜ formalizes what RRS *does* intuitively |
-| **[Ontology Lab](https://github.com/serge-ontolab/ontology-lab)** | *The Playground* — experiments, critiques, extensions | ➜ where plastic apples are placed on the table |
+| **[MPO-S](https://github.com/SergeakaAimate/Ontology-Lab)** | *The OS* — operational grammar for cross-world navigation | ➜ formalizes what RRS *does* intuitively |
+| **[Ontology Lab](https://github.com/SergeakaAimate/Ontology-Lab)** | *The Playground* — experiments, critiques, extensions | ➜ where plastic apples are placed on the table |
 | **[This Essay](./essay_en.pdf)** | *The Flash* — a single spark from the circuit | ➜ not a conclusion, but a resonance |
 
 Think of it as **one idea, expressed in four registers**: play, method, reflection, dialogue.
