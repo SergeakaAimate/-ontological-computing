@@ -15,7 +15,7 @@ It’s a **living trace** of an experiment — an attempt to think *through* com
 
 It contains:
 
-- **Essay (RU/EN)** — *Ontological Intensification of Computation*:  
+- **Essay (EN)** — *Ontological Intensification of Computation*:  
   A reflection on computation not as calculation, but as *Γ-actualization* — the emergence of meaning from hidden potential.
 
 - **RRS: Ready-Ready-Show!** —  
