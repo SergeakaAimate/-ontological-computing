@@ -1,4 +1,4 @@
-# -ontological-computing
+# ontological-computing
 Standard approaches to the ontology of computation reduce it to symbol manipulation or information processing, ignoring its emergent, agentive dimension. We propose to view computation as Γ-actualization — a process where latent potential (Property 25) becomes ontically effective through binding (Property 34) and significance (Property 37). 
 # Ontological Computing  
 *Essays, Experiments, and the Game That Binds Them*
